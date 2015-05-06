@@ -7,10 +7,6 @@ function foo() {
   var y = 10;
 }
 
-//Make dummy variables
-var x = 1
-var y = 2
-
 //Print the variables
 console.log(x)
 console.log(y)
